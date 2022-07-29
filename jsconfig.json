@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "ESNext",
+    "target": "es2021",
+    "jsx": "react",
+    "checkJs": true, 
+  },
+}
